@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "pattern": "\\\\bProgression:\\s+Hands\\\\b",
+      "suggest": "forearms → torso → neck → face → complete",
+      "source": "Progression: Hands",
+      "notes": ""
+    },
+    {
+      "pattern": "\\\\b\\*Tremor:\\*\\*\\s+Immediate\\s+physical\\s+cost—fingertip\\\\b",
+      "suggest": "forearm; worsens with complexity",
+      "source": "*Tremor:** Immediate physical cost—fingertip",
+      "notes": ""
+    },
+    {
+      "pattern": "\\\\b\\*Population:\\*\\*\\s+\\~100\\s+\\(N06\\)\\\\b",
+      "suggest": "2,000 (N10) → 200 (N20) → 50 (N25) → 15 (N30)",
+      "source": "*Population:** ~100 (N06)",
+      "notes": ""
+    },
+    {
+      "pattern": "\\\\bCosts\\s+escalate\\s+with\\s+use:\\s+vein\\-burn\\\\b",
+      "suggest": "Hollowing → calcification",
+      "source": "Costs escalate with use: vein-burn",
+      "notes": ""
+    }
+  ]
+}

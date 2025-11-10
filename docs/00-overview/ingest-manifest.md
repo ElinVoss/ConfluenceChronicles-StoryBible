@@ -1,0 +1,23 @@
+# Source Ingest Manifest
+
+- Master-Lexicon.md -> docs/01-canon/master-lexicon.md : OK
+- Soulpulse Resonance Magic System (Confluence Chronicles).txt -> docs/01-canon/magic-system-source.txt : OK
+- OmniMeta-Part1-Turnings.md -> docs/04-plot/turnings/Part1-Turnings.md : OK
+- OmniMeta-Part2-Characters-A.md -> docs/03-characters/Part2-Characters-A.md : OK
+- OmniMeta-Part2B-Gods-Secondary.md -> docs/03-characters/Part2B-Gods-Secondary.md : OK
+- Part3-OmniMeta.md -> docs/00-overview/Part3-OmniMeta.md : OK
+- Part4-OmniMeta.md -> docs/00-overview/Part4-OmniMeta.md : OK
+- Part5-OmniMeta.md -> docs/00-overview/Part5-OmniMeta.md : OK
+- Part6-OmniMeta.md -> docs/00-overview/Part6-OmniMeta.md : OK
+- Part7A-Turning1-N01-05.md -> docs/04-plot/turnings/Turning1-N01-05.md : OK
+- Part7B-Turning2-N06-10.md -> docs/04-plot/turnings/Turning2-N06-10.md : OK
+- Part7C-Turning3-N11-15.md -> docs/04-plot/turnings/Turning3-N11-15.md : OK
+- Part7D-Turning4-N16-20.md -> docs/04-plot/turnings/Turning4-N16-20.md : OK
+- Part7E-Turning5-N21-25.md -> docs/04-plot/turnings/Turning5-N21-25.md : OK
+- Part7F-Turning6-N26-30.md -> docs/04-plot/turnings/Turning6-N26-30.md : OK
+- Part8-Meta-Analysis.md -> docs/04-plot/meta/Part8-Meta-Analysis.md : OK
+- N01-Soulpulse-Scope (1).md -> docs/01-canon/N01-Soulpulse-Scope.md : OK
+- N02-Soulpulse-Scope.md -> docs/01-canon/N02-Soulpulse-Scope.md : OK
+- N03-Soulpulse-Scope.md -> docs/01-canon/N03-Soulpulse-Scope.md : OK
+- N04-Soulpulse-Scope.md -> docs/01-canon/N04-Soulpulse-Scope.md : OK
+- N05-Soulpulse-Scope.md -> docs/01-canon/N05-Soulpulse-Scope.md : OK

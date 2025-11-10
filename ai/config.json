@@ -1,0 +1,15 @@
+{
+  "index_roots": [
+    "docs/01-canon",
+    "docs/04-plot/novellas",
+    "docs/05-ops"
+  ],
+  "chunk": {
+    "max_chars": 1800,
+    "overlap": 200
+  },
+  "file_globs": [
+    "**/*.md",
+    "**/*.txt"
+  ]
+}
