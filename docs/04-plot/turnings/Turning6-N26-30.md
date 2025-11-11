@@ -31,7 +31,7 @@ This is **Part 7F ** of the exhaustive OmniMeta Saga blueprint — the **FINAL d
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **73 chapters** (N30 only has 13 chapters—ends with last god death, no Ch14-15)
-- ~4,000 words per chapter = **~292,000 words total** (Turning Six)
+- 800-1,300 words per chapter = **~73,000 words total** (Turning Six)
 - No interludes (pure final battle)
 
 ---

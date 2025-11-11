@@ -33,7 +33,7 @@ This document integrates **all previous parts** (1-6, 7A-7B) to provide complete
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **75 chapters**
-- ~4,000 words per chapter = **~300,000 words total** (Turning Three)
+- 800-1,300 words per chapter = **~75,000 words total** (Turning Three)
 - No formal interludes (god-vessels active as antagonists in main plot)
 
 ---

@@ -29,7 +29,7 @@ This is **Part 7E (CORRECTED)** of the exhaustive OmniMeta Saga blueprint — co
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **75 chapters**
-- ~4,000 words per chapter = **~300,000 words total** (Turning Five)
+- 800-1,300 words per chapter = **~75,000 words total** (Turning Five)
 - No interludes (focused preparation arc)
 
 ---

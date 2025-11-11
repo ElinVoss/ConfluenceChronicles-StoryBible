@@ -27,15 +27,15 @@ This document integrates **all previous parts** (1-7F) to provide the highest-le
 - **450 chapters** broken down across 30 novellas (15 chapters each)
 - **6 Turnings** with distinct thematic arcs (Glass, Steel, Lattice, Alloy, Cast, Weld)
 - **30 climactic moments** (1 per novella minimum)
-- **~1.8M words** estimated final prose (4,000 words/chapter average)
+- **~360,000-585,000 words** estimated final prose (800-1,300 words/chapter range)
 - **~390,000 words** of blueprint documentation
 
 **Structural Hierarchy:**
 ```
-SAGA (1.8M words, 450 chapters, 30 novellas, 6 turnings)
-  ├─ TURNING (300K words, 75 chapters, 5 novellas)
-  │   ├─ NOVELLA (60K words, 15 chapters)
-  │   │   ├─ CHAPTER (4K words, single POV, emotional beat)
+SAGA (360K-585K words, 450 chapters, 30 novellas, 6 turnings)
+  ├─ TURNING (60K-97K words, 75 chapters, 5 novellas)
+  │   ├─ NOVELLA (12K-19.5K words, 15 chapters)
+  │   │   ├─ CHAPTER (800-1,300 words, single POV, emotional beat)
   │   │   │   ├─ SCENES (2-5 per chapter)
   │   │   │   └─ BEATS (Breath Catch, Pressure Knot, etc.)
 ```
@@ -294,9 +294,9 @@ SAGA (1.8M words, 450 chapters, 30 novellas, 6 turnings)
 
 **Sustainable Pace:**
 - **Daily:** 1,000-2,000 words (draft quality, not polished)
-- **Weekly:** 7,000-14,000 words (1.75-3.5 chapters)
-- **Monthly:** 30,000-60,000 words (7.5-15 chapters, ~1 novella)
-- **Yearly:** 360,000-720,000 words (90-180 chapters, 6-12 novellas)
+- **Weekly:** 7,000-14,000 words (5-17 chapters at 800-1,300 words each)
+- **Monthly:** 30,000-60,000 words (23-75 chapters, ~2-5 novellas at 800-1,300 words/chapter)
+- **Yearly:** 360,000-585,000 words (277-731 chapters at 800-1,300 words/chapter)
 
 **Complete Saga Timeline:**
 - **Fast pace (2K/day):** ~2.5 years (900 days)

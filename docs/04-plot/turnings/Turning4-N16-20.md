@@ -32,7 +32,7 @@ This document integrates **all previous parts** (1-6, 7A-7C) to provide complete
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **75 chapters**
-- ~4,000 words per chapter = **~300,000 words total** (Turning Four)
+- 800-1,300 words per chapter = **~75,000 words total** (Turning Four)
 - No formal interludes (darkest arc; focus on mortal degradation)
 
 ---

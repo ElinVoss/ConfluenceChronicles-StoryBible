@@ -33,7 +33,7 @@ This document integrates **all previous parts** (1-6, 7A) to provide complete ta
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **75 chapters**
-- ~4,000 words per chapter = **~300,000 words total** (Turning Two)
+- 800-1,300 words per chapter = **~75,000 words total** (Turning Two)
 - No formal interludes (god-vessels now active; focus on mortal conflict)
 
 ---

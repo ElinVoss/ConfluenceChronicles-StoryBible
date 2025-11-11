@@ -190,7 +190,7 @@ For novellas N16-N30, ops decks provide additional operational guidance that com
 
 **Problem**: Chapter beats don't add up to target word count
 
-**Solution**: Adjust `target_length_words` in brief or modify chapter count in `05-plot/chapter-beats.md`. Typical chapters are 3,000-4,000 words.
+**Solution**: Adjust `target_length_words` in brief or modify chapter count in `05-plot/chapter-beats.md`. Typical chapters are 800-1,300 words.
 
 ---
 
@@ -252,8 +252,8 @@ Act I: Scaffold incident, Jhace's vein-burn begins, Tiffani's precision work sho
 Act II: Failed working reveals Confluence danger, Mobel's isolation worsens, factions begin forming.  
 Act III: Climactic choice, costs become permanent, new equilibrium with visible consequences.
 
-**05-plot/chapter-beats.md**  
-15 chapters, each 3,000 words, alternating Jhace/Tiffani POV, with specific scene summaries, emotional beats, and cost tracking.
+**05-plot/chapter-beats.md**
+15 chapters, each 800-1,300 words, alternating Jhace/Tiffani POV, with specific scene summaries, emotional beats, and cost tracking.
 
 ---
 

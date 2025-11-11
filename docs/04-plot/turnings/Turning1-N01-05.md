@@ -34,7 +34,7 @@ This document integrates **all previous parts** (1-6) to provide complete tactic
 
 **Total Structure:**
 - 5 novellas × 15 chapters = **75 chapters**
-- ~4,000 words per chapter = **~300,000 words total** (Turning One)
+- 800-1,300 words per chapter = **~75,000 words total** (Turning One)
 - 8 interludes (2 per novella N01-N04; none in N05—transformations ARE the climax)
 
 ---
@@ -783,9 +783,9 @@ This document integrates **all previous parts** (1-6) to provide complete tactic
 - Debris strikes her; mortal wound
 - Falls into his arms
 
-**Chapter 13: JHACE — "DEATH, CONFLUENCE, TRANSFORMATION" (MASSIVE CHAPTER ~8000 words)**
+**Chapter 13: JHACE — "DEATH, CONFLUENCE, TRANSFORMATION"**
 
-### **PART 1: TIFFANI'S DEATH (~2000 words)**
+### **PART 1: TIFFANI'S DEATH**
 
 - Jhace catches Tiffani as she collapses
 - Debris embedded in her chest/abdomen; knows she's dying
@@ -797,7 +797,7 @@ This document integrates **all previous parts** (1-6) to provide complete tactic
   - Tiffani: "I'm sorry. I love you." (dies)
 - World shatters for Jhace
 
-### **PART 2: JHACE'S CONFLUENCE (~2000 words)**
+### **PART 2: JHACE'S CONFLUENCE**
 
 - Overwhelmed by grief, desperate to save others still in danger
 - Instinct and anguish unleash something unprecedented
@@ -808,9 +808,9 @@ This document integrates **all previous parts** (1-6) to provide complete tactic
 - Combined with failing suppression device: massive sky-explosion
 - Energy wave radiates outward from Jhace at speed of thought
 
-### **PART 3: FOUR SIMULTANEOUS TRANSFORMATIONS (~4000 words)**
+### **PART 3: FOUR SIMULTANEOUS TRANSFORMATIONS**
 
-**Each transformation shown in rapid succession (~1000 words each):**
+**Each transformation shown in rapid succession:**
 
 #### **TRANSFORMATION 1: CORLEXI → XILCORE (FORM)**
 
@@ -930,7 +930,7 @@ This document integrates **all previous parts** (1-6) to provide complete tactic
 - Compulsion to facilitate peaceful dissolution; acceptance over struggle
 - Wanderers, hermits, philosophers proclaim her enlightenment
 
-### **PART 4: APOCALYPTIC AFTERMATH (~1000 words)**
+### **PART 4: APOCALYPTIC AFTERMATH**
 
 **Suppression Device Final Failure:**
 - Combined with Jhace's Confluence and four transformations
