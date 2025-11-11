@@ -1,0 +1,123 @@
+# Novella Brief Template
+# Copy this file to create a new novella brief: docs/05-ops/<novella-id>-brief.yaml
+# Fill in all fields, referring to novella-brief.schema.yaml for detailed documentation
+
+# REQUIRED FIELDS
+# ===============
+
+novella_id: "N01"
+
+working_title: "The Grip That Holds"
+
+era: "Turning_1"
+
+target_length_words: 45000
+
+# THEMATIC FIELDS
+# ===============
+
+tone_pillars:
+  - "forge-punk grit"
+  - "glass-punk fragility"
+  - "intimate scale with cosmic stakes"
+
+primary_theme: "The cost of holding what should be let go"
+
+secondary_themes:
+  - "Flawed perfection as a trap"
+  - "Confluence as terminal, not a toy"
+  - "The violence of transformation"
+
+# CHARACTER FIELDS
+# ================
+
+required_characters:
+  - "Jhace Torrins"
+  - "Tiffani Merrow"
+  - "Mobel Kress"
+  - "Venn Eries"
+
+# CONSTRAINT FIELDS
+# =================
+
+forbidden_elements:
+  - "No explicit Confluence scenes in the first three chapters"
+  - "No mention of later Turnings, factions, or future-era tech"
+  - "No formal magic system terminology (resonance, principles, veins, Hollowing, etc.)"
+  - "No god-vessel transformations or hints"
+  - "Magic must feel instinctive, miraculous, unpredictable—not systematic"
+
+must_hit_beats:
+  - "Inciting: Jhace loses something he cannot brute-force reclaim (scaffold incident, vein-burn begins)"
+  - "Early: Tiffani's precision work shows first signs of calcification cost"
+  - "Midpoint: First glimpse of Confluence's true cost through a failed working"
+  - "Act II: Mobel's isolation symptoms become undeniable"
+  - "Climax: A choice where survival costs more than surrender"
+  - "Resolution: New equilibrium established, but costs are permanent and visible"
+
+# OPTIONAL FIELDS
+# ===============
+
+preferred_locations:
+  - "Coreven—Underface (Jhace's workshop district)"
+  - "Tiffani's glassworks"
+  - "The Lattice Yards"
+  - "Council administrative district"
+
+magic_focus:
+  - "Instinctive, unnamed abilities (healing, shaping, preservation)"
+  - "Visible physical costs (vein-burn, calcification, numbness)"
+  - "Failure modes (pain, exhaustion, tremor)"
+  - "No formal system or terminology yet"
+
+faction_involvement:
+  - "Pre-factional era: groups forming but not yet named"
+  - "Informal clusters around different approaches to power"
+  - "Council bureaucracy trying to manage chaos"
+
+continuity_hooks:
+  - "Establishes Jhace's vein-burn baseline (~2.5cm by end)"
+  - "Introduces Tiffani's calcification seeds (stiffness, not yet severe)"
+  - "Shows Mobel's early isolation/numbness trend"
+  - "Sets up Venn/Eries vitality drain pattern"
+  - "Lays groundwork for N02's three-affinity emergence"
+
+pov_structure: "dual_pov"  # Jhace and Tiffani alternating chapters
+
+special_constraints:
+  - "Tiffani's narrative voice: elegant prose with punched profanity, NOT grimdark yet"
+  - "Jhace's narrative voice: blunt, physical, action-oriented with emotional undercurrent"
+  - "Magic should feel like a gift turning into a curse, not a tool"
+  - "First three chapters must establish world, characters, and stakes before any Confluence"
+
+# ADDITIONAL NOTES
+# ================
+
+# This is an exemplar brief for N01, the opening novella of the saga.
+# When creating briefs for other novellas:
+#
+# 1. Adjust forbidden_elements based on knowledge gates for that era
+#    - N02-N03: Can use "resonance," "frequency matching," three affinities
+#    - N04: Can use "Hollowing," "dual-principle," four principles theorized
+#    - N05+: Full terminology available
+#
+# 2. Ensure continuity_hooks reference actual prior novellas
+#    - Track cost progression (vein-burn cm, calcification severity, etc.)
+#    - Reference character arcs from previous novellas
+#    - Set up future beats without spoiling
+#
+# 3. Adjust tone_pillars as saga evolves
+#    - Early novellas: intimate, discovery-focused
+#    - Mid-saga: factional conflict, weaponization
+#    - Late saga: cosmic stakes, transformation, world-breaking
+#
+# 4. Verify required_characters are appropriate for the era
+#    - Some characters transform into god-vessels in N05
+#    - Track who's alive, transformed, or dead at each point
+#
+# 5. Align must_hit_beats with Turning structure
+#    - Reference docs/04-plot/turnings/Turning<X>-N<XX-XX>.md
+#    - Ensure novella beats serve larger Turning arc
+#
+# VERSION: 1.0 (N01 Exemplar)
+# LAST UPDATED: 2025-11-11
