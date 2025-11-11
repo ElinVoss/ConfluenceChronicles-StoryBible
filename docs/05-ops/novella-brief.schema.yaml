@@ -1,0 +1,207 @@
+# Novella Brief Schema
+# This file documents the expected structure and fields for a Confluence Chronicles novella brief.
+# Use this as a reference when creating new briefs or validating existing ones.
+
+# REQUIRED FIELDS
+# ===============
+
+novella_id:
+  type: string
+  description: Unique identifier for the novella in the saga
+  format: "N" followed by two digits (01-30)
+  examples:
+    - "N01"
+    - "N17"
+    - "N30"
+  required: true
+
+working_title:
+  type: string
+  description: The novella's title or working title
+  notes: May be revised during development, but provides thematic anchor
+  examples:
+    - "The Grip That Holds"
+    - "Light Cracks Through"
+    - "Alloy Folded Wrong"
+  required: true
+
+era:
+  type: string
+  description: Which Turning (major story arc) this novella belongs to
+  format: "Turning_" followed by number (1-6)
+  values:
+    - "Turning_1" # N01-N05
+    - "Turning_2" # N06-N10
+    - "Turning_3" # N11-N15
+    - "Turning_4" # N16-N20
+    - "Turning_5" # N21-N25
+    - "Turning_6" # N26-N30
+  required: true
+
+target_length_words:
+  type: integer
+  description: Expected word count for the completed novella
+  typical_range: 40000-50000
+  notes: Used for pacing calculations and chapter beat planning
+  examples:
+    - 45000
+    - 48000
+    - 42000
+  required: true
+
+# THEMATIC FIELDS
+# ===============
+
+tone_pillars:
+  type: list[string]
+  description: 2-4 core tonal qualities that define the novella's atmosphere
+  notes: Should be evocative and specific, not generic
+  examples:
+    - ["forge-punk grit", "glass-punk fragility"]
+    - ["bureaucratic horror", "intimate betrayal"]
+    - ["cosmic dread", "domestic warmth", "inevitable decay"]
+  required: true
+
+primary_theme:
+  type: string
+  description: The central thematic question or tension explored in this novella
+  notes: Should be specific to this novella, not just saga-wide themes
+  examples:
+    - "The cost of holding what should be let go"
+    - "When precision becomes prison"
+    - "The violence of forced transformation"
+  required: true
+
+secondary_themes:
+  type: list[string]
+  description: Supporting thematic threads that complement the primary theme
+  typical_count: 2-4
+  examples:
+    - ["Flawed perfection", "Confluence as terminal, not a toy"]
+    - ["Power as corruption", "Identity under pressure"]
+    - ["The weight of legacy", "Choosing who to save"]
+  required: true
+
+# CHARACTER FIELDS
+# ================
+
+required_characters:
+  type: list[string]
+  description: Characters who must appear or be significantly referenced in this novella
+  notes: Use canonical character names from docs/03-characters/
+  examples:
+    - ["Jhace Torrins", "Tiffani Merrow"]
+    - ["Mobel Kress", "Venn Eries", "Xilcore"]
+    - ["Leesa", "Blemo", "Seeri"]
+  required: true
+
+# CONSTRAINT FIELDS
+# =================
+
+forbidden_elements:
+  type: list[string]
+  description: Explicit constraints on what cannot appear in this novella
+  notes: Used to enforce knowledge gates, era purity, and pacing
+  examples:
+    - ["No explicit Confluence scenes in the first three chapters"]
+    - ["No mention of later Turnings, factions, or future-era tech"]
+    - ["No god-vessel transformations until final act"]
+    - ["Tiffani's narrative must not go grimdark until Dregs arrival"]
+  required: true
+
+must_hit_beats:
+  type: list[string]
+  description: Non-negotiable story beats that must occur in this novella
+  format: Brief description with act/timing hint when relevant
+  examples:
+    - ["Inciting: Jhace loses something he cannot brute-force reclaim"]
+    - ["Midpoint: First glimpse of Confluence's true cost"]
+    - ["Climax: A choice where survival costs more than surrender"]
+    - ["Act III: Mobel's isolation reaches transformation threshold"]
+  required: true
+
+# OPTIONAL FIELDS
+# ===============
+
+preferred_locations:
+  type: list[string]
+  description: Specific locations from docs/02-world/ to feature prominently
+  notes: Optional; engine will select appropriate locations if not specified
+  examples:
+    - ["Coreven—Underface", "The Lattice Yards"]
+    - ["Jhace's workshop", "Tiffani's glassworks"]
+    - ["The Dregs", "Council chambers"]
+  required: false
+
+magic_focus:
+  type: list[string]
+  description: Which aspects of the Soulpulse Resonance System to emphasize
+  notes: Optional; useful for ensuring variety across novellas
+  examples:
+    - ["Structural resonance", "vein-burn progression"]
+    - ["Dual-principle emergence", "Hollowing identification"]
+    - ["Confluence mechanics", "god-vessel transformations"]
+  required: false
+
+faction_involvement:
+  type: list[string]
+  description: Which factions should be prominent in this novella
+  notes: Optional; must respect era knowledge gates
+  examples:
+    - ["Formers", "Wholists", "Releasers"]
+    - ["Council bureaucracy", "Lattice workers"]
+    - ["Underground resistance", "God-vessel cults"]
+  required: false
+
+continuity_hooks:
+  type: list[string]
+  description: Specific connections to other novellas (past or future)
+  format: Brief description with novella reference
+  notes: Optional; used for saga-wide arc tracking
+  examples:
+    - ["Resolves Jhace's vein-burn crisis from N04"]
+    - ["Sets up Tiffani's Dregs arrival in N07"]
+    - ["Echoes Mobel's isolation arc from N02-N04"]
+  required: false
+
+pov_structure:
+  type: string
+  description: Point-of-view structure for this novella
+  values:
+    - "single_pov"      # One character throughout
+    - "dual_pov"        # Two alternating POVs
+    - "multi_pov"       # Three or more POVs
+    - "ensemble"        # Multiple POVs with no single protagonist
+  notes: Optional; engine will infer from required_characters if not specified
+  required: false
+
+special_constraints:
+  type: list[string]
+  description: Any additional constraints not covered by other fields
+  notes: Optional; use sparingly for truly unique requirements
+  examples:
+    - ["Entire novella takes place within single crucible (month)"]
+    - ["No dialogue in first chapter"]
+    - ["Must include detailed forge-work sequences"]
+  required: false
+
+# USAGE NOTES
+# ===========
+#
+# 1. Copy docs/05-ops/novella-brief.template.yaml to create a new brief
+# 2. Fill in all REQUIRED fields
+# 3. Add OPTIONAL fields as needed for specific creative direction
+# 4. Validate against this schema before submitting to AI Bible Engine
+# 5. Store completed briefs as docs/05-ops/<novella-id>-brief.yaml
+#
+# VALIDATION TIPS
+# ===============
+#
+# - novella_id must match era (N01-N05 → Turning_1, N06-N10 → Turning_2, etc.)
+# - required_characters must exist in docs/03-characters/
+# - forbidden_elements should reference knowledge gates for era
+# - must_hit_beats should align with Turning structure in docs/04-plot/turnings/
+# - target_length_words should accommodate chapter count (typically 12-15 chapters)
+#
+# VERSION: 1.0
+# LAST UPDATED: 2025-11-11
