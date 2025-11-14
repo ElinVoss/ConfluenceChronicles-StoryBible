@@ -1,427 +1,467 @@
-# OMNIMETA SAGA: COMPLETE 30-NOVELLA SCHEMATIC BLUEPRINT
+# OMNIMETA SAGA: COMPLETE 30-NOVELLA SCHEMATIC BLUEPRINT  
 ## PART 1: SIX TURNINGS STRUCTURE & COMPLETE ARC OVERVIEW
 
 ---
 
 ## DOCUMENT PURPOSE
 
-This is the **exponentially detailed, exhaustive blueprint** for the entire OmniMeta Saga spanning all 30 novellas across Six Turnings. Every novella's placement, transformation, political dynamic, character flaw, and thematic progression is documented here.
+This document is the **high-level, exhaustive blueprint** for the entire OmniMeta Saga spanning all **30 novellas** across **Six Turnings**.
 
-**What this covers:**
-- Six Turnings framework (Glass, Steel, Lattice, Alloy, Cast, Weld)
-- 30 novellas organized by Turning
-- Complete thematic arcs
-- World-state transformations
-- Power structure evolution
-- Character progression overview
+It defines:
 
----
+- The **Six Turnings** framework (GLASS, CRACK, FORGE, SMELT, CLEAR, BREAK)  
+- All **30 novellas** in order, with titles and acrostic pattern  
+- The **world-state shifts** per Turning  
+- The **power structure evolution** (gods, resistance, mortals)  
+- The **macro character and thematic arcs** (especially Jhace Torrins)
 
-## THE SIX TURNINGS FRAMEWORK
-
-### **Metaphysical Structure:**
-
-**Each Turning = 5 Novellas = ~350,000 words**
-
-The saga is organized around **glassforging/metalworking metaphors**:
-
-1. **GLASS (N01-N05):** Raw material exposed to heat (disaster)
-2. **STEEL (N06-N10):** Forging under pressure (resistance forms)
-3. **LATTICE (N11-N15):** Complex patterns emerge (ideological war)
-4. **ALLOY (N16-N20):** Elements blend (corruption of resistance)
-5. **CAST (N21-N25):** Mold takes shape (infiltration/revelation)
-6. **WELD (N26-N30):** Final joining/breaking (apocalyptic climax)
+This is **structural canon**, not line-level prose. It tells you *what must happen* and *how the saga moves*, not how individual scenes are written.
 
 ---
 
-## TURNING ONE: GLASS (N01-N05)
-### "From Disaster to Divinity"
+## THE SIX TURNINGS (DUAL-CRAFT METAPHOR)
 
-**Time Span:** Year 423 (Fiergetide) → Year 424 (mid-Shapetide)
-**Duration:** ~12 months
-**World State:** Post-catastrophe → God-aspect emergence
+The saga’s core theme is the collision and synthesis of two opposing crafts:
 
-### **Core Transformation:**
-Innocent world broken by cosmic disaster → Four mortals become gods → Human autonomy ends
+- **Glass Crafting / Blowing** — fragile, transparent, precise, reactive  
+- **Metal Forging** — brutal, shaping, persistent, cost-heavy  
 
-### **Key Events:**
-- **N01:** Piercing catastrophe, magic awakens, Jhace/Tiffani partnership forms
-- **N02:** Infrastructure crisis escalates, practitioner community emerges, factions begin
-- **N03:** Corruption/violence introduced, Bram dies, guilds fracture
-- **N04:** Hollowing crisis, Tiffani reveals dual-principle mastery, Corlexi Hollows
-- **N05:** Suppression device catastrophe, Tiffani dies, Confluence manifests, four gods awaken
+Jhace Torrins is the “workpiece” being transformed across the saga, through orchestrated catastrophe, into something that can confront gods.
 
-### **Novella Titles & Functions:**
+### Turnings, Acrostics, and Metaphors
 
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N01** | "Grip That Holds" | Inciting disaster, magic discovery, hope born | Infrastructure stabilized, partnership sealed |
-| **N02** | "Light Cracks Through" | Systematization begins, complexity discovered | Stress-riser averted, factions forming |
-| **N03** | "Alloy Folded Wrong" | Violence erupts, corruption revealed, first major death | Bram dies, Jhace/Tiffani deepest bond |
-| **N04** | "Shatter From Heat" | Limits confronted, secrets revealed, ambition fails | Jhace nearly dies, Tiffani saves him, Corlexi Hollows |
-| **N05** | "Steal Breaks Open" | Catastrophic transformation, tragic sacrifice | Tiffani dies, gods awaken, world ends |
+Each Turning has **5 novellas** whose titles form an **acrostic word**. That word is a phase in the combined glass/metal process and a lens on Jhace’s transformation.
 
-### **Turning One Endpoints:**
-
-**World State:**
-- Infrastructure: ~90% restored → irrelevant (gods maintain it)
-- Governance: Traditional councils → god-factions forming
-- Magic: Instinctive discovery → Four Principles formalized
-- Population: Unified survivors → factional divisions hardening
-
-**Power Structure:**
-- **Jhace:** Local hero → Confluence-bearer, resistance leader
-- **Tiffani:** Mentor/partner → Dead (permanent, memory only)
-- **Four Gods:** Mortals with compulsions → Transformed divine beings
-- **Factions:** Informal groups → God-aligned movements
-
-**Thematic State:**
-- Hope vs. Despair: From hope (N01) → devastating loss (N05)
-- Order vs. Chaos: Natural disaster → divine intervention
-- Human Agency: Full autonomy → gods threaten free will
-- Love: Partnership formed → love lost to sacrifice
-
-**Reader Experience:**
-First arc feels like natural disaster survival story → transforms into god-conflict saga. Tiffani's death ensures emotional investment. Jhace's unique Confluence makes him credible god-opponent.
+| Turning | Novellas | Acrostic | Process Phase                                                                                   |
+|--------:|----------|----------|-------------------------------------------------------------------------------------------------|
+| 1. GLASS | N01–N05 | G-L-A-S-S | Glass crafting: fragile, transparent, newly formed (Soulpulse awakens, world is brittle).      |
+| 2. CRACK | N06–N10 | C-R-A-C-K | Glass/metal collision: fractures spread, stress accumulates (factions form, world splinters). |
+| 3. FORGE | N11–N15 | F-O-R-G-E | Metal forging: heat and hammering (god wars, Jhace shaped as weapon).                         |
+| 4. SMELT | N16–N20 | S-M-E-L-T | Melting down, refining through extreme heat (attrition, resistance degraded and refined).     |
+| 5. CLEAR | N21–N25 | C-L-E-A-R | Glass clarity: purified, transparent, final pattern visible (convergence, final set-up).      |
+| 6. BREAK | N26–N30 | B-R-E-A-K | Shattering, collapse, revelation (endgame, gods and systems break, truth exposed).            |
 
 ---
 
-## TURNING TWO: STEEL (N06-N10)
-### "Forging Resistance"
+## AUDITED NOVELLA TITLES (N01–N30)
 
-**Time Span:** Year 424 (late Shapetide) → Year 425 (Fiergetide)
-**Duration:** ~18 months
-**World State:** God-domains forming → Human resistance organized
+These are the **canonical titles** for all 30 novellas. All downstream tools, repos, and prose engines should treat these as locked.
 
-### **Core Transformation:**
-Chaos post-ascension → Organized resistance emerges → Four factions crystallize
-
-### **Key Events:**
-- **N06:** Immediate aftermath, Jhace grieves, first resistance recruits
-- **N07:** Four gods establish domains, ideological conflicts sharpen
-- **N08:** First god-faction war (Xilcore vs. Blemo), humans caught between
-- **N09:** Jhace unites scattered resistors, formal network created
-- **N10:** Major resistance victory, proves gods can be opposed
-
-### **Novella Titles & Functions:**
-
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N06** | "Ash After Fire" | Grief, scattered survivors, resistance seeds | Jhace accepts leadership role |
-| **N07** | "Four Thrones Rise" | Gods establish domains, ideologies clash | God-territories formalized |
-| **N08** | "Caught Between Forms" | Inter-god warfare, humans as collateral | First major god-faction battle |
-| **N09** | "Forged in Defiance" | Resistance organized, Jhace leads | Formal human resistance network |
-| **N10** | "First Strike" | Major resistance operation, victory | Gods proven vulnerable |
-
-### **Turning Two Endpoints:**
-
-**World State:**
-- Territory: Four god-domains with borders
-- Governance: God-factions dominant, resistance underground
-- Magic: Practitioners choose alignment (gods vs. humans)
-- Population: ~60% god-aligned, ~30% neutral, ~10% resistance
-
-**Power Structure:**
-- **Jhace:** Resistance leader, ~500 active members
-- **Four Gods:** Establishing divine rule, competing ideologies
-- **God-Factions:** Millions of followers per god
-- **Resistance:** Underground network, guerrilla tactics
-
-**Character States:**
-- **Jhace:** Grieving but functional, driven by Tiffani's memory
-- **Chloen:** Lieutenant in resistance, combat-trained
-- **Kylar:** Structural specialist, key strategist
-- **Marisse:** Philosophical advisor, ethical compass
-
-**Thematic State:**
-- Hope vs. Despair: Cautious hope (resistance exists)
-- Order vs. Chaos: Four competing divine orders
-- Human Agency: Fighting to preserve autonomy
-- Love: Tiffani's memory as internal guide
+| Novella | Acrostic | Title                      |
+|--------:|----------|----------------------------|
+| N01     | G        | Grip That Holds            |
+| N02     | L        | Light Cracks Through       |
+| N03     | A        | Alloy Folded Wrong         |
+| N04     | S        | Shatter From Heat          |
+| N05     | S        | Steal Breaks Open          |
+| N06     | C        | Called From Refuge         |
+| N07     | R        | Resonance Awakens          |
+| N08     | A        | Adaptation's Cost          |
+| N09     | C        | Creation's Test            |
+| N10     | K        | Knowledge Demanded         |
+| N11     | F        | Forging the Sacred         |
+| N12     | O        | Order Sought               |
+| N13     | R        | Resistance Grows           |
+| N14     | G        | Gods Entrench              |
+| N15     | E        | Escalation Burns           |
+| N16     | S        | Separation Deepens         |
+| N17     | M        | Material Degradation       |
+| N18     | E        | Erosion's Edge             |
+| N19     | L        | Losses Mount               |
+| N20     | T        | Threshold Approached       |
+| N21     | C        | Convergence Rising         |
+| N22     | L        | Loyalty Tested             |
+| N23     | E        | Each Faction Stands        |
+| N24     | A        | Armistice Failing          |
+| N25     | R        | Reckoning Ready            |
+| N26     | B        | Breaking Point Reached     |
+| N27     | R        | Revelation Unfolds         |
+| N28     | E        | Echoes End                 |
+| N29     | A        | Apex of Stasis             |
+| N30     | K        | Knowing Everything         |
 
 ---
 
-## TURNING THREE: LATTICE (N11-N15)
-### "Ideological War"
+## GLOBAL SCALE & WORDCOUNT CONTRACT
 
-**Time Span:** Year 425 (late Fiergetide) → Year 427 (Settletide)
-**Duration:** ~24 months
-**World State:** Resistance established → Full-scale ideological warfare
+- **Per novella target:** ~16,500 words  
+- **Per Turning:** 5 × 16,500 ≈ **82,500 words**  
+- **Total saga:** 30 × 16,500 ≈ **495,000 words** (≈ 0.5M)
 
-### **Core Transformation:**
-Guerrilla resistance → Open warfare → Infiltration strategy born
-
-### **Key Events:**
-- **N11:** Resistance goes public, open confrontations
-- **N12:** Major god-faction purges, heavy casualties
-- **N13:** Inter-god warfare escalates, landscape devastated
-- **N14:** Resistance adopts infiltration tactics
-- **N15:** First insider planted in god-faction
-
-### **Novella Titles & Functions:**
-
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N11** | "Breaking Silence" | Resistance public declaration | Open warfare begins |
-| **N12** | "Purge of Mercy" | Leesa's faction purges "impure," Chloen nearly killed | Resistance pushed underground again |
-| **N13** | "When Steel Bends" | Inter-god warfare peak, millions die | Landscape permanently altered |
-| **N14** | "Shadow Lattice" | Infiltration strategy developed | First successful deep-cover insertion |
-| **N15** | "Insider" | Lysenne (Form-faction member) joins resistance as double-agent | Major intelligence victory |
-
-### **Turning Three Endpoints:**
-
-**World State:**
-- Territory: Borders redrawn by god-wars
-- Governance: Divine rule absolute in territories
-- Magic: Weaponized at continental scale
-- Population: ~50% god-aligned, ~35% neutral/hiding, ~15% resistance
-
-**Power Structure:**
-- **Jhace:** Resistance leader, ~2,000 active members, underground
-- **Four Gods:** Entrenched power, warring with each other
-- **Lysenne:** Double-agent in Xilcore's faction (critical asset)
-- **Selwin:** Defector from Leesa's faction (intel specialist)
-
-**Character States:**
-- **Jhace:** Hardened by war, tactical leader
-- **Chloen:** Scarred by near-death, fierce warrior
-- **Kylar:** Strategic mastermind, infiltration architect
-- **Marisse:** Moral center, struggling with violence justification
-
-**Thematic State:**
-- Hope vs. Despair: Grim determination (not hopeful, but unbroken)
-- Order vs. Chaos: Four divine tyrannies vs. human freedom
-- Human Agency: Fighting asymmetric war
-- Love: Tiffani's memory + comradeship sustain Jhace
+This blueprint assumes **tight novellas**, not fat novels. Pacing is punchy; arcs must be efficient.
 
 ---
 
-## TURNING FOUR: ALLOY (N16-N20)
-### "Corruption of Purity"
+## TURNING ONE: GLASS (N01–N05)  
+### “From Disaster to Divinity”
 
-**Time Span:** Year 427 (late Settletide) → Year 429 (Shapetide)
-**Duration:** ~24 months
-**World State:** Infiltration ongoing → Resistance corrupted from within
+**Time Span:** Casting 423 → early Casting 424  
+**Duration:** ~1 Casting (~4 Crucibles)
 
-### **Core Transformation:**
-Moral resistance → Ethical compromise → Internal betrayal
+### Core Transformation
 
-### **Key Events:**
-- **N16:** Infiltration yields intelligence, first god weakened
-- **N17:** Resistance uses morally questionable tactics
-- **N18:** Internal dissent (Marisse questions methods)
-- **N19:** Major betrayal reveals resistance location
-- **N20:** Hundreds killed, resistance scattered, Marisse executed by gods
+Innocent industrial world → **Soulpulse awakens** → four mortals begin shifting toward divinity.  
+The world goes from **structural stress** to **shattered glass**.
 
-### **Novella Titles & Functions:**
+### Key Beats by Novella
 
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N16** | "Poison in the Well" | Intelligence from Lysenne, first god weakened | Blemo's faction destabilized |
-| **N17** | "Necessary Evils" | Resistance adopts brutal tactics | Civilian casualties from resistance action |
-| **N18** | "Fractured Alloy" | Internal dissent, Marisse opposes violence | Resistance splits ideologically |
-| **N19** | "Betrayal's Price" | Traitor reveals resistance safe house | Hundreds captured/killed |
-| **N20** | "Execution Dawn" | Marisse executed publicly, Jhace broken | Turning point: resistance nearly destroyed |
+- **N01 – Grip That Holds**  
+  Piercing catastrophe; Soulpulse first appears; Jhace & Tiffani partnership is formed as they stabilize the heat-grid and prevent total collapse.
 
-### **Turning Four Endpoints:**
+- **N02 – Light Cracks Through**  
+  Practitioners organize; infrastructure barely holds; early factions form around differing principles and philosophies.
 
-**World State:**
-- Territory: Gods consolidating power
-- Governance: Divine tyranny deepening
-- Magic: Resistance outmatched
-- Population: ~55% god-aligned, ~30% neutral, ~15% resistance (decimated)
+- **N03 – Alloy Folded Wrong**  
+  Corruption, violence, and guild fractures; key death (Bram) and heavy consequences; “we can fix this” optimism dies.
 
-**Power Structure:**
-- **Jhace:** Broken leader, ~200 survivors scattered
-- **Four Gods:** Stronger than ever, one weakened (Blemo)
-- **Lysenne/Selwin:** Still embedded, compromised positions
-- **Resistance:** Scattered cells, demoralized
+- **N04 – Shatter From Heat**  
+  Hollowing crisis; Tiffani’s dual-principle mastery emerges; Corlexi’s breakdown hints at something beyond mortal limits.
 
-**Character States:**
-- **Jhace:** Guilt-ridden, questioning everything
-- **Chloen:** Radicalized, revenge-driven
-- **Kylar:** Pragmatic, willing to sacrifice anyone
-- **Marisse:** Dead (executed), martyred
+- **N05 – Steal Breaks Open**  
+  Suppression device catastrophe; Tiffani dies in a decisive, visible sacrifice; four god-aspects awaken; world order ends.
 
-**Thematic State:**
-- Hope vs. Despair: Near-total despair
-- Order vs. Chaos: Divine order winning
-- Human Agency: Nearly crushed
-- Love: Tiffani's memory + Marisse's sacrifice = only anchors
+### Turning One Endpoints
+
+**World State**
+
+- Infrastructure: strained but mostly restored → rendered **obsolete** by divine maintenance starting N05.  
+- Governance: human councils & guilds → **irrelevant** once gods step in.  
+- Magic: from “what is happening” to a codified **Four Principles** framework.
+
+**Power Structure**
+
+- **Jhace:** Seen as hero and survivor of Confluence, now a key symbolic figure.  
+- **Tiffani:** Dead, permanently; remembered as the central sacrificial anchor.  
+- **Corlexi, Salee, Mobel, Eries:** Transition from driven mortals to **newly-ascended gods**.
+
+**Theme State**
+
+- Hope → shattered hope.  
+- Order vs chaos shifts from natural disaster → **divine intervention**.  
+- Human agency collapses; gods become the new “physics.”
 
 ---
 
-## TURNING FIVE: CAST (N21-N25)
-### "The Mold Takes Shape"
+## TURNING TWO: CRACK (N06–N10)  
+### “Forging Resistance”
 
-**Time Span:** Year 429 (late Shapetide) → Year 431 (Fiergetide)
-**Duration:** ~24 months
-**World State:** Resistance scattered → Revelation of truth → Strategic pivot
+**Time Span:** mid Casting 424 → early Casting 425  
+**Duration:** ~1.5 Castings (~6 Crucibles)
 
-### **Core Transformation:**
-Broken resistance → Truth revealed (Tiffani alive, Auditor) → New purpose
+### Core Transformation
 
-### **Key Events:**
-- **N21:** Jhace alone, contemplating surrender
-- **N22:** Chloen rallies survivors, refuses to quit
-- **N23:** Lysenne's intelligence: Auditor exists, orchestrated everything
-- **N24:** Quest to find Auditor, trail leads to ancient facility
-- **N25:** Tiffani revealed alive, confrontation, truth exposed
+Post-ascension chaos → **god-domains solidify** → scattered mortals **fracture** into collaboration, neutrality, or resistance.  
+Hairline cracks become **fault lines**.
 
-### **Novella Titles & Functions:**
+### Key Beats by Novella
 
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N21** | "Alone in the Dark" | Jhace isolated, grief overwhelming | Decides to continue fighting |
-| **N22** | "Chloen's Refusal" | Chloen refuses surrender, rallies survivors | ~50 fighters remain loyal |
-| **N23** | "Whispers of the Auditor" | Lysenne reveals: orchestrator exists | New enemy identified |
-| **N24** | "Trail to Truth" | Quest for Auditor, dangerous journey | Ancient pre-Piercing facility found |
-| **N25** | "She Never Died" | Tiffani revealed alive, Auditor identity exposed | Everything Jhace knew = lie |
+- **N06 – Called From Refuge**  
+  Immediate aftermath of N05. Tiffani is buried; Jhace breaks then slowly functions as teacher. First refuges and resistance seeds form in border zones between god-domains.
 
-### **Turning Five Endpoints:**
+- **N07 – Resonance Awakens**  
+  Four gods actively reshape territory. Their “help” reshapes infrastructure, health, and death. Mortal resonance to these domains splits society.
 
-**World State:**
-- Territory: Gods dominant
-- Governance: Divine rule absolute
-- Magic: Resistance desperate
-- Population: ~60% god-aligned, ~25% neutral, ~15% resistance (tiny core)
+- **N08 – Adaptation’s Cost**  
+  People adapt to divine rule: some thrive, some break. Resistance learns that “refusing perfection” comes with starvation, injury, and political isolation.
 
-**Power Structure:**
-- **Jhace:** Shattered emotionally, betrayed by truth
-- **Tiffani:** Revealed as Auditor, immortal, orchestrator
-- **Four Gods:** Unaware of Auditor, fighting each other
-- **Resistance:** ~50 fighters, Chloen/Kylar leading
+- **N09 – Creation’s Test**  
+  Resistance as a concept is tested. Can they create sustainable structures, doctrine, and logistics without gods?
 
-**Character States:**
-- **Jhace:** Betrayed, questioning everything, love for Tiffani destroyed
-- **Chloen:** Furious, wants to kill Tiffani
-- **Kylar:** Calculating, sees opportunity in chaos
-- **Tiffani:** Cold, detached, defending her actions as "necessary"
+- **N10 – Knowledge Demanded**  
+  Turning ends with the resistance understanding enough about god-behavior and divine maintenance to plan more than survival: **they can now plan strategy.**
 
-**Thematic State:**
-- Hope vs. Despair: Absolute despair (everything was lie)
-- Order vs. Chaos: Chaos (trust shattered)
-- Human Agency: Questioning if free will exists
-- Love: Love revealed as manipulation
+### Turning Two Endpoints
 
-**Critical Revelation:**
-Tiffani orchestrated Piercing, god-awakenings, resistance, everything. Jhace's entire life = her experiment. N25 ends with Jhace's worldview obliterated.
+**World State**
+
+- Territory: four clear god-domains + contested borders.  
+- Governance: gods unquestioned in their centers, mortals self-govern only in shadow spaces.  
+- Magic: practitioners pressured to **align or starve**.
+
+**Power Structure**
+
+- **Jhace:** Reluctant but real resistance leader, teaching from Tiffani’s methods.  
+- **Four Gods:** Consolidating, each embodying a Principle in terrifying “helpful” form.  
+- **Resistance:** Maybe ~500 active supporters by late N10; small but coordinated.
+
+**Theme State**
+
+- Comfort vs autonomy becomes the central fight.  
+- Grief for Tiffani hardens into **structure**: refuges, oaths, training systems.  
+- The idea “we can live without gods” transitions from delusion to **project plan**.
 
 ---
 
-## TURNING SIX: WELD (N26-N30)
-### "Final Joining/Breaking"
+## TURNING THREE: FORGE (N11–N15)  
+### “Ideological War”
 
-**Time Span:** Year 431 (late Fiergetide) → Year 432 (Shapetide)
-**Duration:** ~12 months
-**World State:** Truth revealed → Apocalyptic endgame → Final confrontation
+**Time Span:** late Casting 425 → mid Casting 427  
+**Duration:** ~2 Castings (~8 Crucibles)
 
-### **Core Transformation:**
-Shattered resistance → Strategic pivot against gods AND Auditor → Total annihilation
+### Core Transformation
 
-### **Key Events:**
-- **N26:** Jhace decides to kill gods first, deal with Auditor after
-- **N27:** Steals Auditor suppression weapon, reverses it into god-killer
-- **N28:** Traps all four gods using fivefold Confluence stasis
-- **N29:** Systematically kills first three gods
-- **N30:** Kills fourth god, confronts Tiffani, kills her, dies himself
+Hidden resistance → **open, ideological war** between gods and mortals, plus **wars among gods**.  
+Jhace is hammered into a sharper instrument.
 
-### **Novella Titles & Functions:**
+### Key Beats by Novella
 
-| **Novella** | **Title** | **Function** | **Climax** |
-|---|---|---|---|
-| **N26** | "Weld or Break" | Jhace chooses path: kill gods, then Auditor | Strategic pivot |
-| **N27** | "Weapon of the Infinite" | Steals suppression device from Auditor facility | God-killing weapon acquired |
-| **N28** | "Five-Principle Stasis" | Jhace manifests fifth principle (Meta), traps all four gods | Gods immobilized |
-| **N29** | "Three Fall" | Systematically kills Blemo, Xilcore, Leesa | Three gods annihilated |
-| **N30** | "Knowing Everything" | Kills Seeri, confronts Tiffani, kills her, dies | Total annihilation, saga ends |
+- **N11 – Forging the Sacred**  
+  Resistance goes public with a coordinated action or declaration that gods cannot ignore. Divinity and defiance crash openly.
 
-### **Turning Six Endpoints:**
+- **N12 – Order Sought**  
+  Gods respond by tightening their versions of order. Mortals attempt re-orderings too: charters, codes, shared doctrine.
 
-**World State:**
-- Territory: God-domains collapsing
-- Governance: Chaos (no gods, no Auditor)
-- Magic: Veil between worlds broken
-- Population: ~15 survivors witness ending
+- **N13 – Resistance Grows**  
+  As atrocities and overreaches accumulate on all sides, neutral populations increasingly feed the resistance.
 
-**Power Structure:**
-- **Jhace:** Dead (after killing Tiffani)
-- **Tiffani:** Dead (killed by Jhace)
-- **Four Gods:** Dead (all annihilated)
-- **Survivors:** ~15 people, Chloen/Kylar/Lysenne among them
+- **N14 – Gods Entrench**  
+  God-domains harden; borders become walls; entire districts and regions undergo permanent transformation.
 
-**Character States:**
-- **Jhace:** Dead, sacrificed everything
-- **Chloen:** Survivor, witness to apocalypse
-- **Kylar:** Survivor, traumatized
-- **Lysenne/Selwin:** Survivors, broken
+- **N15 – Escalation Burns**  
+  Turning climax: a multi-front collision (god vs god, gods vs resistance, mortals vs mortals). The world map and moral landscape both get scorched.
 
-**Thematic State:**
-- Hope vs. Despair: Total despair (everyone dead)
-- Order vs. Chaos: Absolute chaos (no structure remains)
-- Human Agency: Pyrrhic victory (freedom through annihilation)
-- Love: Love = manipulation, but Jhace's final choice = agency
+### Turning Three Endpoints
 
-**Final State:**
-Saga ends with world broken, gods dead, Auditor dead, Jhace dead. ~15 survivors inherit empty world. Ambiguous whether this is victory or defeat.
+**World State**
+
+- Territory: continents / large regions carved clearly by divine influence.  
+- Governance: divine rule in domains, resistance strongholds in a sparse lattice.  
+- Magic: weaponized at scale; collateral damage is normal.
+
+**Power Structure**
+
+- **Jhace:** Hardened commander; still cost-heavy but more disciplined.  
+- **Resistance:** Thousands of adherents; fragmented but allied cells across regions.  
+- **Gods:** Not monolithic—clashing visions lead to **inter-god warfare**.
+
+**Theme State**
+
+- “God vs human” simplifies to a messy **web of ideologies**.  
+- Jhace is no longer fighting *for* a single memory; he’s fighting for a way of being mortal.
 
 ---
 
-## COMPLETE NOVELLA LIST
+## TURNING FOUR: SMELT (N16–N20)  
+### “Corruption of Purity”
 
-### **TURNING ONE: GLASS (N01-N05)**
-1. **N01:** "Grip That Holds"
-2. **N02:** "Light Cracks Through"
-3. **N03:** "Alloy Folded Wrong"
-4. **N04:** "Shatter From Heat"
-5. **N05:** "Steal Breaks Open"
+**Time Span:** late Casting 427 → mid Casting 429  
+**Duration:** ~2 Castings (~8 Crucibles)
 
-### **TURNING TWO: STEEL (N06-N10)**
-6. **N06:** "Ash After Fire"
-7. **N07:** "Four Thrones Rise"
-8. **N08:** "Caught Between Forms"
-9. **N09:** "Forged in Defiance"
-10. **N10:** "First Strike"
+### Core Transformation
 
-### **TURNING THREE: LATTICE (N11-N15)**
-11. **N11:** "Breaking Silence"
-12. **N12:** "Purge of Mercy"
-13. **N13:** "When Steel Bends"
-14. **N14:** "Shadow Lattice"
-15. **N15:** "Insider"
+The crucible phase: resistance and world both get **melted down**.  
+What can’t survive extreme pressure is burned away; what’s left is lean, ugly, and honest.
 
-### **TURNING FOUR: ALLOY (N16-N20)**
-16. **N16:** "Poison in the Well"
-17. **N17:** "Necessary Evils"
-18. **N18:** "Fractured Alloy"
-19. **N19:** "Betrayal's Price"
-20. **N20:** "Execution Dawn"
+### Key Beats by Novella
 
-### **TURNING FIVE: CAST (N21-N25)**
-21. **N21:** "Alone in the Dark"
-22. **N22:** "Chloen's Refusal"
-23. **N23:** "Whispers of the Auditor"
-24. **N24:** "Trail to Truth"
-25. **N25:** "She Never Died"
+- **N16 – Separation Deepens**  
+  The split between god-aligned mortals and resistance becomes generational and cultural, not just tactical. Families and cities are divided.
 
-### **TURNING SIX: WELD (N26-N30)**
-26. **N26:** "Weld or Break"
-27. **N27:** "Weapon of the Infinite"
-28. **N28:** "Five-Principle Stasis"
-29. **N29:** "Three Fall"
-30. **N30:** "Knowing Everything"
+- **N17 – Material Degradation**  
+  Long-term war scars the environment, the infrastructure, and practitioners’ bodies. Soulpulse costs accumulate brutally. Jhace and other leaders pay obvious physical prices.
+
+- **N18 – Erosion’s Edge**  
+  Resistance ethics erode. Some cells carry out horrific actions “for the cause.” Internal conflict over methods threatens to fracture everything.
+
+- **N19 – Losses Mount**  
+  A catastrophic defeat: key refuges burned, allies killed, networks compromised. The saga’s single worst casualty count before the endgame.
+
+- **N20 – Threshold Approached**  
+  What remains of the resistance stands at a line: continue as they are and be extinguished, or **fundamentally change how they fight**. Turning ends at that threshold.
+
+### Turning Four Endpoints
+
+**World State**
+
+- Territory: god-domains mostly secure; resistance territories rare and battered.  
+- Governance: gods rule their realms like inevitabilities; resistance zones feel like temporary “errors.”  
+- Magic: everywhere, expensive, and visibly killing its users over time.
+
+**Power Structure**
+
+- **Jhace:** Burned down to a core—less idealism, more clarity.  
+- **Key Allies (Chloen, Kylar, others):** Many dead, maimed, or radicalized.  
+- **Resistance:** Numerically reduced but strategically sharper.
+
+**Theme State**
+
+- The saga asks: **how much of yourself can you sacrifice before you’re no longer worth saving?**  
+- The resistance is forced to examine its own rot as much as divine tyranny.
+
+---
+
+## TURNING FIVE: CLEAR (N21–N25)  
+### “The Mold Takes Shape”
+
+**Time Span:** late Casting 429 → mid Casting 431  
+**Duration:** ~2 Castings (~8 Crucibles)
+
+### Core Transformation
+
+After the melt comes **clarification**. The fog lifts, and the true structure of the conflict becomes visible.  
+Jhace, the gods, and the remaining factions all crystallize into their final positions.
+
+### Key Beats by Novella
+
+- **N21 – Convergence Rising**  
+  Scattered cells, exiles, and god-broken communities converge into a final coalition. Old feuds are buried or weaponized. The storylines of all Turnings begin folding into a single lane.
+
+- **N22 – Loyalty Tested**  
+  Everyone is forced to choose a side with no more “neutral” space: defect, commit, or fall out of the game. Friendships and oaths are stress-tested to the breaking point.
+
+- **N23 – Each Faction Stands**  
+  All major groups — gods, resistance, collaborationist human powers, and rogue actors — declare their non-negotiables. We see clearly **who wants what** and what they’re willing to burn for it.
+
+- **N24 – Armistice Failing**  
+  A fragile attempt at ceasefire or limited accords collapses under mutual distrust, sabotage, or stark ideological incompatibility. The possibility of a “soft landing” is permanently lost.
+
+- **N25 – Reckoning Ready**  
+  Turning ends with all pieces set on the board for final confrontation. Resources, alliances, and betrayals are locked. There is no path left that doesn’t lead through catastrophe.
+
+### Turning Five Endpoints
+
+**World State**
+
+- Territory: frozen into final configurations; everyone knows where the lines are.  
+- Governance: gods run their realms; human structures exist only where gods tolerate or are blocked.  
+- Magic: both sides know its limits, edges, and probable failure modes.
+
+**Power Structure**
+
+- **Jhace:** Fully aware that his life is a consumable instrument. Accepts that his final actions will almost certainly kill him.  
+- **Gods:** No longer in flux; their personalities and domains are fixed, their vulnerabilities partially mapped.  
+- **Resistance / Other Factions:** Fragmentation replaced with **hard, clear positions**.
+
+**Theme State**
+
+- Illusion is stripped away. No one gets to pretend anymore: not about gods, not about resistance, not about the cost.  
+- “Clear” here doesn’t mean “clean.” It means **undeniably visible**.
+
+---
+
+## TURNING SIX: BREAK (N26–N30)  
+### “Final Joining / Breaking”
+
+**Time Span:** late Casting 431 → mid Casting 432  
+**Duration:** ~1 Casting (~4 Crucibles)
+
+### Core Transformation
+
+Last phase: the combined glass/metal work **shatters** under final stress.  
+The question becomes not “who wins?” but “what survives the break?”
+
+### Key Beats by Novella
+
+- **N26 – Breaking Point Reached**  
+  Pressure peaks. Small-scale battles and crises overlap into an unavoidable, system-wide tipping point. Jhace and the surviving leadership accept that there is no path forward that doesn’t involve total risk.
+
+- **N27 – Revelation Unfolds**  
+  The deeper nature of Soulpulse, the Four Principles, and the planet’s vein-network is finally understood. This isn’t a “gotcha twist,” but a structural reveal: why gods emerged, and what they *actually* are in relation to the world.
+
+- **N28 – Echoes End**  
+  Long-running patterns (god-wars, faction rivalries, generational vendettas) reach their terminus. Old debts are paid, sometimes literally in blood; dangling obligations are resolved or burned away.
+
+- **N29 – Apex of Stasis**  
+  A temporary, terrifying equilibrium: gods, mortals, and the world itself are locked into a high-tension configuration. One last move will tip everything into either annihilation or a new state.
+
+- **N30 – Knowing Everything**  
+  Jhace steps into full, lethal understanding of Soulpulse and the world’s structure — a personal, catastrophic “Confluence-level” choice. The finale resolves the gods, the magic system, and Jhace’s arc in a way that **honors cost** over clean victory.
+
+### Turning Six Endpoints
+
+**World State**
+
+- After N30, the world is **irrevocably changed**. Whether gods still exist, whether Soulpulse still behaves the same, and whether civilization is viable at all are answered here.  
+- This is not a “everyone’s fine” ending. It’s a “something survives” ending.
+
+**Power Structure**
+
+- **Jhace:** Dead or fundamentally gone as a normal person. His final act is the last use of his agency.  
+- **Gods:** Either dead, altered, or stripped enough that they no longer serve as unchallengeable authorities.  
+- **Survivors:** A small set of mortals inherit whatever is left.
+
+**Theme State**
+
+- Love, sacrifice, autonomy, and the right to choose your own ruin all land hard here.  
+- “Break” is both a tragedy and a liberation: previous structures, including divine ones, are shattered.
+
+---
+
+## COMPLETE NOVELLA LIST (TURNING BY TURNING)
+
+### TURNING ONE – GLASS (N01–N05)
+
+1. **N01 – Grip That Holds**  
+2. **N02 – Light Cracks Through**  
+3. **N03 – Alloy Folded Wrong**  
+4. **N04 – Shatter From Heat**  
+5. **N05 – Steal Breaks Open**
+
+### TURNING TWO – CRACK (N06–N10)
+
+6. **N06 – Called From Refuge**  
+7. **N07 – Resonance Awakens**  
+8. **N08 – Adaptation's Cost**  
+9. **N09 – Creation's Test**  
+10. **N10 – Knowledge Demanded**
+
+### TURNING THREE – FORGE (N11–N15)
+
+11. **N11 – Forging the Sacred**  
+12. **N12 – Order Sought**  
+13. **N13 – Resistance Grows**  
+14. **N14 – Gods Entrench**  
+15. **N15 – Escalation Burns**
+
+### TURNING FOUR – SMELT (N16–N20)
+
+16. **N16 – Separation Deepens**  
+17. **N17 – Material Degradation**  
+18. **N18 – Erosion's Edge**  
+19. **N19 – Losses Mount**  
+20. **N20 – Threshold Approached**
+
+### TURNING FIVE – CLEAR (N21–N25)
+
+21. **N21 – Convergence Rising**  
+22. **N22 – Loyalty Tested**  
+23. **N23 – Each Faction Stands**  
+24. **N24 – Armistice Failing**  
+25. **N25 – Reckoning Ready**
+
+### TURNING SIX – BREAK (N26–N30)
+
+26. **N26 – Breaking Point Reached**  
+27. **N27 – Revelation Unfolds**  
+28. **N28 – Echoes End**  
+29. **N29 – Apex of Stasis**  
+30. **N30 – Knowing Everything**
 
 ---
 
 ## TOTAL SAGA STATISTICS
 
-**Duration:** ~9 years (Year 423 → Year 432)
-**Total Word Count:** ~2,100,000 words (30 novellas × 70,000 avg)
-**Major Deaths:** Bram (N03), Chloen (N03), Tiffani (N05/revealed alive N25/killed N30), Marisse (N20), Four Gods (N29-N30), Jhace (N30)
-**Turning Points:** Piercing (N01), God-Awakening (N05), Resistance Formation (N09), Marisse's Execution (N20), Tiffani Revealed (N25), Total Annihilation (N30)
+- **Timeframe:** Casting 423 → Casting 432 (~9 Castings)  
+- **Total word count target:** ~495,000 words  
+- **Scale:** One city/world → multiple god-domains → partial or total systemic collapse
+
+**Major confirmed deaths (high-level only):**
+
+- **Bram** – N03 (first intimate, permanent loss)  
+- **Tiffani** – N05 (sacrifice that anchors entire saga; *stays dead*)  
+- **Several key resistance figures** – cluster around N18–N20  
+- **Jhace** – N30 (final choice)
+
+Exact death ordering for all supporting cast is handled in the individual novella bibles; this file is the macro skeleton.
 
 ---
 
 ## END OF PART 1: SIX TURNINGS STRUCTURE
 
-Next parts will detail character arcs, political advantages, fatal flaws, and individual novella breakdowns.
+This blueprint locks:
+
+- The **macro rhythm** of the saga  
+- The **Turning-level transformations**  
+- The **title set, acrostics, and wordcount contract**
+
+All per-novella story bibles (N01–N30) should treat this document as the **top-level constraint layer**: nothing in an individual novella may contradict these arcs.
